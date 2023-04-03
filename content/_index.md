@@ -46,18 +46,18 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Staring fixedly
+          description: 93%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Communication
           description: 100%
-          icon: chart-line
+          icon: handshake
           icon_pack: fas
-        - name: Photography
+        - name: Python
           description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: python
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
@@ -70,26 +70,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Survival in Belogorsk, Amur region
+          company: Belogorsk
+          company_url: 'http://belogorck.ru/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: far east
+          date_start: '2005-07-30'
+          date_end: '2022-07-11'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              
+              * street fight
+              * investing in jolly pong
+              * loving mom 
+        - title: Studying
+          company: RUDN University 
+          company_url: 'https://www.rudn.ru/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: MSK
+          date_start: '2022-09-01'
+          date_end: '2023-04-03'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -107,29 +107,22 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+          date_end: '2019-05-11'
+          date_start: '2011-01-25'
           description: ''
-          organization: Coursera
+          organization: gym
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: multiple sport gymnastics diplomas 
           url: ''
         - certificate_url: https://www.edx.org
-          date_end: ''
+          date_end: '2028-03-12'
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+
     design:
       columns: '2'
   - block: collection
@@ -249,7 +242,7 @@ sections:
         street: 450 Serra Mall
         city: Stanford
         region: CA
-        postcode: '94305'
+        postcode: '676852'
         country: United States
         country_code: US
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
